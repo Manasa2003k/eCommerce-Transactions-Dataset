@@ -40,7 +40,7 @@ To begin working with this dataset:
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/Manasa2003k/eCommerce-Transactions-Dataset.git
+git clone https://github.com/Manasa2003k/eCommerce-Transactions-Dataset.git
 
 2. **Navigate to the Directory:**
 
@@ -57,6 +57,7 @@ pip install -r requirements.txt
 Start Jupyter Notebook and open the desired notebook to begin analysis:
 
 jupyter notebook
+
 5. **Requirements:**
 The project requires the following Python libraries:
 
@@ -70,4 +71,5 @@ These can be installed using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 6. **License:**
+   
 This project is licensed under the MIT License - see the LICENSE file for details.
