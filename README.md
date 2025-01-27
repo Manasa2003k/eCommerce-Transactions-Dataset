@@ -58,14 +58,16 @@ Start Jupyter Notebook and open the desired notebook to begin analysis:
 
 jupyter notebook
 
-5. **Requirements:**
-The project requires the following Python libraries:
 
+5. **Requirements:**
+
+The project requires the following Python libraries:
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
+
 These can be installed using pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
