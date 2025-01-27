@@ -72,6 +72,3 @@ These can be installed using pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-6. **License:**
-   
-This project is licensed under the MIT License - see the LICENSE file for details.
